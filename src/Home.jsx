@@ -11,7 +11,7 @@ const Home = () => {
       </button>
 
       <button onClick={openModal} className="btn">
-        sho Modal
+        show Modal
       </button>
     </main>
   );
