@@ -12,6 +12,7 @@ export const AppProvider = ({ children }) => {
 
   //   const l = OpenComponent(setIsModalOpen, true);
   //   l();
+
   const openSidebar = () => {
     setIsSidebarOpen(true);
   };
